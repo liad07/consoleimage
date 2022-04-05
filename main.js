@@ -1,0 +1,1 @@
+console.image("https://i.imagesup.co/images2/dfd5712091ce29b0ae2c1a98a976b850b8939530.png");
